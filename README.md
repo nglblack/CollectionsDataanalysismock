@@ -28,7 +28,6 @@ Detailed explanations and interpretations of visualizations.
 Prerequisites
 Before running the project, ensure you have the following dependencies installed:
 
-```
 Python (3.6+)
 Jupyter Notebook
 Pandas
@@ -38,7 +37,7 @@ Seaborn
 Faker
 Installation
 Clone this repository:
-```
+
 ```
 git clone https://github.com/nglblack/CollectionsDataanalysismock.git
 ```
