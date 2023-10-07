@@ -28,6 +28,7 @@ Detailed explanations and interpretations of visualizations.
 Prerequisites
 Before running the project, ensure you have the following dependencies installed:
 
+```
 Python (3.6+)
 Jupyter Notebook
 Pandas
@@ -37,20 +38,25 @@ Seaborn
 Faker
 Installation
 Clone this repository:
-
+```
+```
 git clone https://github.com/nglblack/CollectionsDataanalysismock.git
+```
 
 Navigate to the project directory:
+```
 cd CollectionsDataanalysismock
+```
 
 Install the required dependencies:
+```
 pip install -r requirements.txt
-
+```
 Usage
 Open the Jupyter Notebook file Collections_Data_Analysis.ipynb to explore the analysis, visualizations, and interpretations.
 Customize the data generation or analysis as needed for your specific collections dataset.
 Project Structure
-
+```
 CollectionsDataanalysismock/
 │
 ├── Collections_Data_Analysis.ipynb  # Jupyter Notebook containing the analysis
@@ -59,6 +65,7 @@ CollectionsDataanalysismock/
 └── mock_data/  # Folder containing mock data used in the analysis
     ├── account_holders.csv  # Mock account holder names
     ├── collections_data.csv  # Mock collections data
+```
 
 Contributing
 Contributions are welcome! Please feel free to open issues or pull requests for any improvements or feature additions.
