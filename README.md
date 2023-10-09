@@ -68,13 +68,13 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 Usage
-Open the Jupyter Notebook file Collections_Data_Analysis.ipynb to explore the analysis, visualizations, and interpretations.
+Open the Jupyter Notebook file Mock_data_collections.ipynb to explore the analysis, visualizations, and interpretations.
 Customize the data generation or analysis as needed for your specific collections dataset.
 Project Structure
 ```
 CollectionsDataanalysismock/
 │
-├── Collections_Data_Analysis.ipynb  # Jupyter Notebook containing the analysis
+├── Mock_data_collections.ipynb # Jupyter Notebook containing the analysis
 ├── README.md  # This README file
 ├── requirements.txt  # Dependencies required for the project
 └── mock_data/  # Folder containing mock data used in the analysis
