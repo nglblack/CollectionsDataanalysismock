@@ -1,8 +1,5 @@
 # This is a requirements file for the Collections Data Analysis Project.
 
-# Python version
-python_version>=3.6
-
 # Data analysis and visualization libraries
 pandas==1.3.3
 numpy==1.21.2
